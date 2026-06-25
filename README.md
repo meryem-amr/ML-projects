@@ -2,14 +2,13 @@ Repository Structure & Projects Overview
 
 * This repository is organized into distinct project directories, each targeting a specific business or clinical objective:
 
-1. Diabetes Risk Prediction & Advanced EDA (Diabetes Risk Prediction.ipynb & Diabetes.ipynb)
-Objective: Predict binary diabetes risk profiles using behavioral, clinical, and physiological patient indicators.
+1. Diabetes Risk Prediction & Advanced EDA 
 
-Datasets Used: Behavioral Risk Factor Surveillance System (BRFSS 2015) and Healthcare Diabetes datasets.
-
-Key Implementation Highlights:
-
-Automated Profiling: Generated deeply granular, interactive exploration profiles using ydata_profiling (ProfileReport) and sweetviz to isolate feature interactions, missing values, and variance anomalies.
+* Objective: Predict binary diabetes risk profiles using behavioral, clinical, and physiological patient indicators.
+* Datasets Used: Behavioral Risk Factor Surveillance System (BRFSS 2015) and Healthcare Diabetes datasets.
+* Key Implementation Highlights:
+  Automated Profiling: Generated deeply granular, interactive exploration profiles using ydata_profiling (ProfileReport)
+  and sweetviz to isolate feature interactions, missing values, and variance anomalies.
 
 Algorithmic Evaluation: Built and optimized classification engines using Support Vector Classifiers (SVC), Random Forests, Logistic Regression, and Decision Trees.
 
