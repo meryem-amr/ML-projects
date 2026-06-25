@@ -1,4 +1,5 @@
-Data Science & Machine Learning Projects
+** Data Science & Machine Learning Projects **
+
 Welcome to my repository of end-to-end Data Science and Machine Learning projects. 
 
 
