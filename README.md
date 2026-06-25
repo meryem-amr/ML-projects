@@ -1,10 +1,5 @@
-Data Science & Machine Learning Projects 
-
-Welcome to my repository of end-to-end Data Science and Machine Learning projects. 
-
 Repository Structure & Projects Overview
-
-This repository is organized into distinct project directories, each targeting a specific business or clinical objective:
+* This repository is organized into distinct project directories, each targeting a specific business or clinical objective:
 
 1. Diabetes Risk Prediction & Advanced EDA (Diabetes Risk Prediction.ipynb & Diabetes.ipynb)
 Objective: Predict binary diabetes risk profiles using behavioral, clinical, and physiological patient indicators.
